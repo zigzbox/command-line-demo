@@ -1,9 +1,11 @@
 .section-green {
-background-color: brown;
+  background-color: brown;
+  font-size: 20px;
 }
 .section-blue {
-background-color: yellow;
+  background-color: yellow;
+  text-style: italic;
 }
 .section-red {
-background-color: red;
+  background-color: red;
 }
